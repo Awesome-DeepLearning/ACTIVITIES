@@ -1,5 +1,5 @@
 # Pull requests Get gifts！	
-飞桨开发者技术专（PPDE） Q1活动开启！！ 给飞桨PaddlePaddle家族提PR，根据积分排行，兑惊喜大礼！
+飞桨开发者技术专家（PPDE） Q1活动开启！！ 给飞桨PaddlePaddle家族提PR，根据积分排行，兑惊喜大礼！
 ## 积分方式
 - 提1个PR：积2分（需官方审核认可）  
 - PR 被Merge：积5分  
