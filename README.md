@@ -24,7 +24,7 @@ PPDE熊头抱枕*1
 答：不可以！  
 
 为了帮助大家更加了解提交PR的方式，老张录制PR教程，手把手教你提PR，同时附上详细操作文档。    
-教程视频链接：下周上传  
+教程视频链接：[哔哩哔哩](https://www.bilibili.com/video/BV1mf4y1s7mJ)  
 文档链接：[使用Pycharm进行PR](https://blog.csdn.net/qq_44183661/article/details/114665668)or[通用方式PR](https://blog.csdn.net/qq_44183661/article/details/114665784)  
 如果还有不清楚的地方的话，欢迎PPDE群里@GT老张  
 
